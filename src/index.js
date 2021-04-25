@@ -12,7 +12,7 @@ const Router = createStackNavigator(
     Dashboard,
   },
   {
-    initialRouteName: 'Dashboard',
+    initialRouteName: 'LoginScreen',
     headerMode: 'none',
   }
 );
